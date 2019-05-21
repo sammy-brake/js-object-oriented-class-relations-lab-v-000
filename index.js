@@ -22,9 +22,7 @@ class Passenger {
     }
     store.passengers.push(this);
   }
-  setDriver(driver){
-    this.driverId = driver.id;
-  }
+
 };
 
 class Trip {
