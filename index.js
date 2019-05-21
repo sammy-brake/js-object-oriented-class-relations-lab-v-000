@@ -16,4 +16,3 @@ class Passenger {
     this.id = ++passengerId;
   }
 }
-
