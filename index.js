@@ -18,7 +18,7 @@ class Passenger {
     this.name = name;
     this.id = ++passengerId;
       if(driver){
-      this.setDriver(driver);
+      this.setDriver(driver)
     }
     store.passengers.push(this);
   }
