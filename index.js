@@ -12,7 +12,7 @@ class Driver {
 
 class Passenter {
   constructor(name) {
-    this.name = name 
+    this.name = name
     this.id = ++passengerId;
   }
 }
