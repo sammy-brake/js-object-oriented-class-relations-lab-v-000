@@ -15,8 +15,6 @@ class Driver {
       return trip.driverId == this.id;
     });
 };
-
-
 }
 
 class Passenger {
